@@ -2,9 +2,10 @@
 ![Autor: Max Muller](https://img.shields.io/badge/Autor-Max%20Muller-blue?style=for-the-badge&logo=github)
 ![Arduino](https://img.shields.io/badge/Arduino-Automação-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-Este repositório apresenta um sistema de **controle de acesso utilizando RFID**, desenvolvido para exposição no **Mundo SENAI SIG**, onde implementei uma casa inteligente equipada com sensores, automação de iluminação e dispositivos de segurança.  
+Este repositório apresenta um sistema de **controle de acesso utilizando RFID**, desenvolvido para exposição no **Mundo SENAI Brasília 2025**, onde implementei uma casa inteligente equipada com sensores, automação de iluminação e dispositivos de segurança.  
 
 Neste projeto, o módulo RFID identifica o cartão aproximado, movimenta o servo para abrir ou fechar a porta e exibe mensagens em um display LCD, como *“Porta aberta”*, *“Porta fechada”* e *“Seja bem-vindo”*.  
+<img width="1400" height="733" alt="681eb8e0c2885-lg" src="https://github.com/user-attachments/assets/36b53553-7cd4-4ecb-9465-18845354571a" />
 
 ## Importância do Projeto
 Este trabalho demonstra minha capacidade de integrar **hardware, lógica embarcada e componentes eletrônicos**, aplicando leitura de UID, controle de estados, comunicação via SPI e interação com interfaces físicas. O projeto evidencia domínio em automação e construção de sistemas funcionais focados em segurança e experiência do usuário.
