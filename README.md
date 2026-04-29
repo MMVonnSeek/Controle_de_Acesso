@@ -1,6 +1,7 @@
 # Controle de Acesso com RFID – Arduino  
 ![Autor: Max Muller](https://img.shields.io/badge/Autor-Max%20Muller-blue?style=for-the-badge&logo=github)
 ![Arduino](https://img.shields.io/badge/Arduino-Automação-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Educação Mundo SENAI](https://img.shields.io/badge/Educação-Mundo%20SENAI-d84d78?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDRjMS4xIDAgMiAuOSAyIDJzLS45IDItMiAyLTItLjktMi0yIC45LTIgMi0yem0wIDEzYy0yLjMzIDAtNC4zMS0xLjQ2LTUuMTEtMy41aDEwLjIyYy0uOCAyLjA0LTIuNzggMy41LTUuMTEgMy41eiIvPjwvc3ZnPg==&logoColor=white)
 
 Este repositório apresenta um sistema de **controle de acesso utilizando RFID**, desenvolvido para exposição no **Mundo SENAI Brasília 2025**, onde implementei uma casa inteligente equipada com sensores, automação de iluminação e dispositivos de segurança.  
 
