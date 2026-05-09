@@ -2,6 +2,7 @@
 ![Autor: Max Muller](https://img.shields.io/badge/Autor-Max%20Muller-blue?style=for-the-badge&logo=github)
 ![Arduino](https://img.shields.io/badge/Arduino-Automação-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Educação Mundo SENAI](https://img.shields.io/badge/Educação-Mundo%20SENAI-d84d78?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDRjMS4xIDAgMiAuOSAyIDJzLS45IDItMiAyLTItLjktMi0yIC45LTIgMi0yem0wIDEzYy0yLjMzIDAtNC4zMS0xLjQ2LTUuMTEtMy41aDEwLjIyYy0uOCAyLjA0LTIuNzggMy41LTUuMTEgMy41eiIvPjwvc3ZnPg==&logoColor=white)
+[![Sponsor](https://img.shields.io/badge/Apoie_este_projeto-Sponsor-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/MMVonnSeek)
 
 Este repositório apresenta um sistema de **controle de acesso utilizando RFID**, desenvolvido para exposição no **Mundo SENAI Brasília 2025**, onde implementei uma casa inteligente equipada com sensores, automação de iluminação e dispositivos de segurança.  
 
@@ -22,22 +23,7 @@ O repositório contém:
 
 https://github.com/user-attachments/assets/fb80af68-d676-44ff-a350-288ecebfb9ef
 
-
-
 ---
-
-## 💖 Apoie este projeto
-
-Se este projeto te ajudou, considere apoiar ❤️
-
-Você pode contribuir com um apoio único ou mensal e ajudar a manter este projeto ativo.
-
-👉 https://github.com/sponsors/MMVonnSeek
-
-Seu apoio ajuda diretamente no desenvolvimento de novas ferramentas e conteúdos 🙌
-
----
-
 
 ## Contribuição
 
@@ -68,9 +54,8 @@ Se tiver alguma dúvida durante o processo, me chame no WhatsApp ou abra uma iss
 [![Forks](https://img.shields.io/github/forks/MMVonnSeek/Controle_de_Acesso?style=social)](https://github.com/MMVonnSeek/Controle_de_Acesso/network/members)
 [![Follow](https://img.shields.io/github/followers/MMVonnSeek?style=social)](https://github.com/MMVonnSeek)
 
-<a href="https://wa.me/5561986194426?text=Olá%20tudo%20bem%20Max%3F%20Eu%20vim%20pelo%20seu%20repositorio%20do%20github.%20Podemos%20conversar%20sobre%3F" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-Fale%20Comigo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
+[![Sponsor](https://img.shields.io/badge/Apoie_este_projeto-Sponsor-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/MMVonnSeek)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Max_Muller-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-muller-685705248/)
 
 <br>
 
